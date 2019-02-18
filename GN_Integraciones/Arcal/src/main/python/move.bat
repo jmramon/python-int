@@ -1,0 +1,1 @@
+move C:\usr\local\applications\Arcal\Datos\REPOSITORIO_CLOVERDOC_TEST\Prueba_001_1_4cd55558-cd66-11e8-a2c7-7470fd20ea3f.pdf C:\usr\local\applications\Arcal\Datos\REPOSITORIO_CLOVERDOC_BACKUP\2018
